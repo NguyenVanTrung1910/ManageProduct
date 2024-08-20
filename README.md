@@ -1,4 +1,4 @@
 Đây là một dụ án em đã áp dụng ReactJS, HTML, CSS, JS để tạo ra một giao diện đơn giản để quản lí sản phẩm
 Dưới đây là một số hỉnh ảnh của website:
-![Alt text](https://example.com/path/to/image.png)
+![Screenshot](images/trangchu.png)
 
